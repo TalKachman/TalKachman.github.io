@@ -1,0 +1,15 @@
+# python ignores
+*.pyc
+*.pyo
+*~
+*.ipynb_checkpoints
+*.lyx#
+*.swp
+.idea/*
+.idea
+.DS_Store
+log/*.log
+tmp/**/*
+db/*.sqlite3
+public/system/**/*
+Development/Nikhil/sim_runs/
