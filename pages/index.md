@@ -1,5 +1,5 @@
 <!--
-.. title: Tal Kachman at IBM
+.. title: Tal Kachman
 .. slug: index
 .. date: 2018-01-23 10:05:17 UTC+02:00
 .. tags:
