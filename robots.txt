@@ -1,0 +1,4 @@
+Sitemap: http://talkachman.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: talkachman.github.io
